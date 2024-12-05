@@ -1,4 +1,4 @@
-Introduction
+
 The TravelEase Project aims to develop an integrated online platform designed to enhance the travel experience for tourists and streamline operations for tour operators. This comprehensive tourist website will offer users the ability to discover, book, and review tours, while providing tour operators with tools to manage their offerings efficiently. Key features include user registration and authentication, tour management, booking and review systems, and robust search and filtering options. The TravelEase Project aspires to create a user-friendly, scalable, and secure platform that meets the evolving needs of the tourism industry.
 
 Functional Requirements:
